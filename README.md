@@ -1,4 +1,3 @@
-[
 <h2 align="center">Otávio Miguel Rocha</h2>
 <h3 align="center">Aprendendo programação full-stack e desenvolvendo soft skills através de projetos e aplicações em equipe.</h3>
 
@@ -10,15 +9,6 @@
 
 - Contato: **otaviorochajcm@gmail.com**
 
-<h3 align="center">Conexões</h3>
-	<p align="center">
-		<a href="https://linkedin.com/in/otávio miguel rocha" target="blank">
-			<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
-                               generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otávio miguel rocha" height="30" 
-                                width="40" />
-		</a>
-		
-	</p>
 <div style="flex-direction: collumn" align="center">
 <h3 align="center">Tecnologias</h3>
   <div>
