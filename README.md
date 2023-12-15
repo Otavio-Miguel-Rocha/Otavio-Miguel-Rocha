@@ -75,4 +75,3 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otavio-miguel-rocha&" alt="otavio-miguel-rocha" />    
   </p>
 </div>
-](url)
