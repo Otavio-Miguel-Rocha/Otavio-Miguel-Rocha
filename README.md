@@ -13,9 +13,6 @@ Atuo na **WEG**, desenvolvendo soluções escaláveis que conectam o chão de f�
 | **Bancos de Dados** | PostgreSQL, Oracle, MySQL, DataBricks, Dremio |
 | **Cloud/DevOps** | AWS, Kubernetes, Git |
 
-
----
-
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-miguel-rocha-931907252/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviorochajcm@gmail.com)
