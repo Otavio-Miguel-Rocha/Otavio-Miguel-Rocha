@@ -1,4 +1,4 @@
-Full Stack Developer 
+# Full Stack Developer 
 
 ### Transformando Processos em Software de Alta Performance
 Atuo na **WEG**, desenvolvendo soluções escaláveis que conectam o chão de fábrica à governança industrial. Especialista em digitalização de fluxos sob a ótica do **Lean Manufacturing**, eliminando desperdícios através de tecnologia de ponta.
